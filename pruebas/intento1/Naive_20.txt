@@ -1,0 +1,11 @@
+Preprocesamiento:
+1. Imputar insured.
+2. Imputar hypertension.
+3. Outliers de test.
+4. Discretizar age.
+5. Normalizar y estandarizar.
+6. PCA
+Modelo
+1. Naive Bayes.
+2. Test and Score F1 0.917
+3. ROC no muy perfecto.

@@ -1,0 +1,11 @@
+Filtar por rank de ckd.
+Faltantes: Hypertension(30), CareSource(2), Insured(30), CVD(2), CHF(2)
+Filtrar por rank de hypertension: Diabetes, Age, Activity, Racegrp
+Filtrar por rank de insured: Caresource, Age.
+===============================================================
+Se usa arboles para imputar insured.
+===============================================================
+Se usa ____ para imputar hypertension. Rank: SBP, Age, Racegrp
+===============================================================
+:wq
+
