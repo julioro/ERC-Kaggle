@@ -1,0 +1,11 @@
+Boxplot: CKD
+- Age
+- Hypertension
+- Diabetes
+- Activity 3, 4
+- CVD
+- CHF
+
+Boxplot: Hypertension
+- Racegrp: black
+-
