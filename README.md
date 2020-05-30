@@ -20,3 +20,14 @@ Preprocesamiento:
 Modelo:
 	- Random Forest	
 
+# Intento 3
+Preprocesamiento:
+	1.- Unir con PCA algunas variables.
+	2.- Categorizar.
+	3.- Imputar
+	4.- PCA
+
+Modelo:
+	- Naive Bayes
+	- 371 dieron positivos.
+	- Score 7.3
