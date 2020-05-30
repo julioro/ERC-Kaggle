@@ -1,0 +1,16 @@
+===PRE1===
+1. Unir en PCA: LDL y Total Chol; Weight, BMI y Waist.
+2. Guardar en Pre1.csv
+===PRE2===
+1. Boxplot: Age y SBP importantes (numericos).
+2. Categorizar.
+3. Cambiar target Hypertension.
+4. Importantes: SBP, Age, Diabetes, CKD, DBP
+5. Guardar en Pre2.csv
+===Pre3===
+1. CVD, CHF Impute simple tree.
+2. Reducir dimensiones con rank.
+===Modelo===
+1. Nuevos features multiplicando AgeHyperCvd y CvdChfPvd
+2. PCA 5
+3. Naive bayes
